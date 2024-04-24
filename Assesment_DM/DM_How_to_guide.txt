@@ -1,0 +1,1 @@
+Tool that from data (Ascii or lidar) extracts a DTM and set if posible a contour polygone with a given height. The idea is to choose only those polygons conected to a river water source.
